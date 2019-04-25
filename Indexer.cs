@@ -42,6 +42,8 @@ namespace PocketGoogle
         public List<int> GetIds(string word)
         {
             var list_result = new List<int>();
+            if (word.CompareTo(" ") == 0)
+                return list_result;
             foreach (var e in dictionary_of_words)
             {
                 if (e.Value.Contains(word))
@@ -56,12 +58,15 @@ namespace PocketGoogle
         public List<int> GetPositions(int id, string word)
         {
             var str = dictionary[id];
+            var str2 = dictionary_of_words[id];
             var list_result = new List<int>();
 
             int index = str.IndexOf(word, 0);
-            while (index > -1)
+            int index2 = str2.IndexOf(word, 0);
+            while (index > -1 && index2 > -1)
             {
                 list_result.Add(index);
+                index2 = str2.IndexOf(word, index2 + 1);
                 index = str.IndexOf(word, index + word.Length);
             }
             return list_result;
