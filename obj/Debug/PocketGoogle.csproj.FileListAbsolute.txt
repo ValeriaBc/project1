@@ -1,0 +1,15 @@
+C:\Users\Admin\Desktop\PocketGoogle.csproj\obj\Debug\PocketGoogle.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\PocketGoogle.csproj\obj\Debug\PocketGoogle.Properties.Resources.resources
+C:\Users\Admin\Desktop\PocketGoogle.csproj\obj\Debug\PocketGoogle.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\PocketGoogle.csproj\obj\Debug\PocketGoogle.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\PocketGoogle.csproj\bin\Debug\Texts\0.txt
+C:\Users\Admin\Desktop\PocketGoogle.csproj\bin\Debug\Texts\1.txt
+C:\Users\Admin\Desktop\PocketGoogle.csproj\bin\Debug\Texts\2.txt
+C:\Users\Admin\Desktop\PocketGoogle.csproj\bin\Debug\Texts\4.txt
+C:\Users\Admin\Desktop\PocketGoogle.csproj\bin\Debug\PocketGoogle.exe.config
+C:\Users\Admin\Desktop\PocketGoogle.csproj\bin\Debug\PocketGoogle.exe
+C:\Users\Admin\Desktop\PocketGoogle.csproj\bin\Debug\PocketGoogle.pdb
+C:\Users\Admin\Desktop\PocketGoogle.csproj\bin\Debug\nunit.framework.dll
+C:\Users\Admin\Desktop\PocketGoogle.csproj\obj\Debug\PocketGoogle.csproj.CopyComplete
+C:\Users\Admin\Desktop\PocketGoogle.csproj\obj\Debug\PocketGoogle.exe
+C:\Users\Admin\Desktop\PocketGoogle.csproj\obj\Debug\PocketGoogle.pdb
