@@ -13,3 +13,18 @@ C:\Users\Admin\Desktop\PocketGoogle.csproj\bin\Debug\nunit.framework.dll
 C:\Users\Admin\Desktop\PocketGoogle.csproj\obj\Debug\PocketGoogle.csproj.CopyComplete
 C:\Users\Admin\Desktop\PocketGoogle.csproj\obj\Debug\PocketGoogle.exe
 C:\Users\Admin\Desktop\PocketGoogle.csproj\obj\Debug\PocketGoogle.pdb
+E:\Мои документы\GitHub\project1\bin\Debug\Texts\0.txt
+E:\Мои документы\GitHub\project1\bin\Debug\Texts\1.txt
+E:\Мои документы\GitHub\project1\bin\Debug\Texts\2.txt
+E:\Мои документы\GitHub\project1\bin\Debug\Texts\4.txt
+E:\Мои документы\GitHub\project1\bin\Debug\PocketGoogle.exe.config
+E:\Мои документы\GitHub\project1\bin\Debug\PocketGoogle.exe
+E:\Мои документы\GitHub\project1\bin\Debug\PocketGoogle.pdb
+E:\Мои документы\GitHub\project1\bin\Debug\nunit.framework.dll
+E:\Мои документы\GitHub\project1\obj\Debug\PocketGoogle.csprojAssemblyReference.cache
+E:\Мои документы\GitHub\project1\obj\Debug\PocketGoogle.Properties.Resources.resources
+E:\Мои документы\GitHub\project1\obj\Debug\PocketGoogle.csproj.GenerateResource.cache
+E:\Мои документы\GitHub\project1\obj\Debug\PocketGoogle.csproj.CoreCompileInputs.cache
+E:\Мои документы\GitHub\project1\obj\Debug\PocketGoogle.csproj.CopyComplete
+E:\Мои документы\GitHub\project1\obj\Debug\PocketGoogle.exe
+E:\Мои документы\GitHub\project1\obj\Debug\PocketGoogle.pdb

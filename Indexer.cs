@@ -37,9 +37,6 @@ namespace PocketGoogle
                 dictionary_of_words.Add(id, list);
 
             dictionary.Add(id, documentText);
-            //dictionary[id] = documentText;
-
-            // throw new NotImplementedException();
         }
 
         public List<int> GetIds(string word)
@@ -54,7 +51,6 @@ namespace PocketGoogle
                 }
             }
             return list_result;
-            //throw new NotImplementedException();
         }
 
         public List<int> GetPositions(int id, string word)
@@ -69,14 +65,12 @@ namespace PocketGoogle
                 index = str.IndexOf(word, index + word.Length);
             }
             return list_result;
-            //throw new NotImplementedException();
         }
 
         public void Remove(int id)
         {
             dictionary_of_words.Remove(id);
             dictionary.Remove(id);
-            //throw new NotImplementedException();
         }
     }
 }
